@@ -1,0 +1,30 @@
+{
+  "name": "星启 · 星座日报与关系合盘",
+  "short_name": "星启",
+  "description": "手机可玩的星座日报与关系合盘",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111226",
+  "theme_color": "#111226",
+  "categories": [
+    "lifestyle",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
