@@ -1,7 +1,7 @@
 {
   "name": "星启 · 星座日报与关系合盘",
   "short_name": "星启",
-  "description": "手机可玩的星座日报与关系合盘",
+  "description": "星座日报、关系合盘与本地八字初盘，出生资料只在设备内计算。",
   "lang": "zh-CN",
   "start_url": "./",
   "scope": "./",
